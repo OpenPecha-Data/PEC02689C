@@ -1,0 +1,31 @@
+id: PEC02689C
+initial_creation_type: input
+source_metadata:
+  title: Songs of esoteric practice given on various occasions (block print), colophon
+    excerpt
+  author: karma phrin las pa/
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-07-23); revision in process, thematic TEI
+    markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:blo bzang rgyal mtshan/ (Dharamsala) (lg)
+  text_witnesses: https://sakyaresearch.org/sources/4887
+  bases:
+    d070:
+      title: Songs of esoteric practice given on various occasions (block print),
+        colophon excerpt
+      order: 1
+      base_file: d070.txt
+created_at: '2022-04-15T18:45:32.691217'
+last_modified_at: '2022-04-15T18:45:32.691223'
+quality: null
